@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T06:28:40.902Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="MU-5K-7356SqNyDXNXEO" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T06:37:07.548Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5uhcnPxhxhgVKB0fWb1X" version="20.0.4" type="github">
   <diagram id="xcjXb5juxU8BeRHJA2AN" name="Page-1">
     <mxGraphModel dx="2251" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,10 +34,20 @@
             <mxPoint x="190" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R9KR2YhZFUUJtLXl9Ry--13" value="下发监控规则&lt;br&gt;收集质控信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R9KR2YhZFUUJtLXl9Ry--10">
+          <mxGeometry x="-0.3618" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="R9KR2YhZFUUJtLXl9Ry--11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="R9KR2YhZFUUJtLXl9Ry--3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="505" as="sourcePoint" />
             <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9KR2YhZFUUJtLXl9Ry--14" value="下发监控规则&lt;br&gt;收集质控信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R9KR2YhZFUUJtLXl9Ry--11">
+          <mxGeometry x="-0.424" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R9KR2YhZFUUJtLXl9Ry--12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R9KR2YhZFUUJtLXl9Ry--4" target="R9KR2YhZFUUJtLXl9Ry--9">
@@ -47,6 +57,11 @@
             <Array as="points">
               <mxPoint x="450" y="390" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9KR2YhZFUUJtLXl9Ry--16" value="下发监控规则&lt;br&gt;收集质控信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R9KR2YhZFUUJtLXl9Ry--12">
+          <mxGeometry x="-0.4524" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
