@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:33:02.945Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="UDVutH_iBGTFSkQpfMwu" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:34:06.860Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XnTNZIRphe7WHP_OvvEp" version="20.2.7" type="github" pages="2">
   <diagram id="WsNz6YtpVmloEQHlZDa_" name="第 1 页">
     <mxGraphModel dx="1187" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,9 +213,6 @@
         <mxCell id="YL0guMIxjp00_lPoTrau-4" value="报表组件" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="146" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-5" value="应用" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="100" y="53" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YL0guMIxjp00_lPoTrau-6" value="数据资源层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="287.5" width="100" height="30" as="geometry" />
         </mxCell>
@@ -233,12 +230,6 @@
         </mxCell>
         <mxCell id="YL0guMIxjp00_lPoTrau-11" value="FINEBI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="601" y="134" width="120" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-12" value="&lt;span style=&quot;white-space: normal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;院长决策&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFB366;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="179" y="10" width="269" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-13" value="sig验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YL0guMIxjp00_lPoTrau-14" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FF9933;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="182" y="210" width="638" height="140" as="geometry" />
@@ -279,12 +270,6 @@
             <mxPoint x="828.98" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-26" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;综合查询&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFB366;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="541" y="10" width="269" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-27" value="sig验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="721" y="30" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="YL0guMIxjp00_lPoTrau-28" value="ODS" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="200" height="37.25" as="geometry" />
         </mxCell>
@@ -303,7 +288,7 @@
         <mxCell id="YL0guMIxjp00_lPoTrau-32" value="SQL" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="409.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="0J95mkMjLjfj_fidBlaE-1" value="KETTLE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="0J95mkMjLjfj_fidBlaE-1" value="ORACLE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="265.51" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0J95mkMjLjfj_fidBlaE-2" value="DW" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
