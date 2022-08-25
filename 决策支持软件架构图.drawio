@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:34:39.907Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nn5NYsy7SHW-WlcsHv-d" version="20.2.7" type="github" pages="2">
-  <diagram id="WsNz6YtpVmloEQHlZDa_" name="第 1 页">
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:36:06.924Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="goiPjqof59uWcfrlTrFN" version="20.2.7" type="github" pages="2">
+  <diagram id="WsNz6YtpVmloEQHlZDa_" name="软件架构">
     <mxGraphModel dx="1187" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -187,7 +187,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-IUfJRfAYLhl0WgpH8bv" name="第 2 页">
+  <diagram id="-IUfJRfAYLhl0WgpH8bv" name="技术架构">
     <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -222,7 +222,7 @@
         <mxCell id="YL0guMIxjp00_lPoTrau-8" value="源数据" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="518" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YL0guMIxjp00_lPoTrau-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="181" y="122" width="633" height="71" as="geometry" />
         </mxCell>
         <mxCell id="YL0guMIxjp00_lPoTrau-10" value="FINEREPORT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
@@ -231,10 +231,10 @@
         <mxCell id="YL0guMIxjp00_lPoTrau-11" value="FINEBI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="601" y="134" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-14" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FF9933;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YL0guMIxjp00_lPoTrau-14" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#0000FF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="182" y="210" width="638" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-15" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#CC6600;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YL0guMIxjp00_lPoTrau-15" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#0000CC;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="182" y="370" width="638" height="98" as="geometry" />
         </mxCell>
         <mxCell id="YL0guMIxjp00_lPoTrau-16" value="TURBODX" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
@@ -246,7 +246,7 @@
         <mxCell id="YL0guMIxjp00_lPoTrau-18" value="物化视图" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="409.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="YL0guMIxjp00_lPoTrau-19" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#994C00;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YL0guMIxjp00_lPoTrau-19" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#000066;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="182" y="488" width="638" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YL0guMIxjp00_lPoTrau-20" value="HIS" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
