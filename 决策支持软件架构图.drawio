@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T08:32:00.364Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="2uk-BGZI-AI5mxxYQI1g" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-25T08:56:02.852Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8nZbfE4Z7fFJSBL3ejHc" version="20.2.7" type="github" pages="2">
   <diagram id="WsNz6YtpVmloEQHlZDa_" name="第 1 页">
     <mxGraphModel dx="1187" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,8 @@
         <mxCell id="-S-HyHiKvbqIZE7HfSdG-8" value="应用" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="53" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-9" value="数据资源" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-9" value="数据中心" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="287.5" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-10" value="采集交换" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="100" y="417" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-S-HyHiKvbqIZE7HfSdG-11" value="源数据" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="518" width="70" height="30" as="geometry" />
@@ -40,7 +37,7 @@
         <mxCell id="-S-HyHiKvbqIZE7HfSdG-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="181" y="122" width="633" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-14" value="FINEREPORT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-14" value="&lt;h2 style=&quot;box-sizing: border-box; font-family: Alibaba-PuHuiTi; font-weight: 500; line-height: 1.1; color: rgb(51, 51, 51); margin-top: 20px; margin-bottom: 10px; font-size: 1.5789rem; text-align: start;&quot;&gt;固定式报表展现&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="130.5" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="-S-HyHiKvbqIZE7HfSdG-15" value="FINEBI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
@@ -52,20 +49,20 @@
         <mxCell id="-S-HyHiKvbqIZE7HfSdG-21" value="sig验证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="260.5" y="20" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-23" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FF9933;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="182" y="210" width="638" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="-S-HyHiKvbqIZE7HfSdG-24" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#CC6600;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="182" y="370" width="638" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-31" value="TURBODX" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="409.5" width="120" height="35" as="geometry" />
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-23" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FF9933;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="182" y="210" width="638" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-32" value="KETTLE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="363.5" y="410" width="120" height="35" as="geometry" />
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-31" value="复制" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="308" y="409.5" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-33" value="物化视图" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="409.5" width="120" height="35" as="geometry" />
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-32" value="抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="409.5" width="66.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-33" value="转换" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="457" y="409.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-S-HyHiKvbqIZE7HfSdG-34" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#994C00;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="182" y="488" width="638" height="90" as="geometry" />
@@ -112,8 +109,23 @@
             <mxPoint x="830" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-S-HyHiKvbqIZE7HfSdG-61" value="复制、抽取、转换、清洗、脱敏、过滤" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="409.5" width="120" height="35" as="geometry" />
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-61" value="脱敏" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="409.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-LgoLQNuWOsBLOCq-GYV-2" value="清洗" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="409.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-LgoLQNuWOsBLOCq-GYV-3" value="过滤" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="612" y="409.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-LgoLQNuWOsBLOCq-GYV-4" value="..." style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="409.5" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-LgoLQNuWOsBLOCq-GYV-5" value="变化数据捕获" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="409.5" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-S-HyHiKvbqIZE7HfSdG-10" value="采集交换" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="404" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
