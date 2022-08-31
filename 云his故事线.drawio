@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T06:14:54.521Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="20.2.7" etag="_I4BJ0jsKSTmDV7kLNqI" type="github"><diagram id="wfGh-eFuYmIzujo8uk2M">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-31T07:08:04.364Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1s3sH9UXCNuUz4lrqkyR" version="20.2.7" type="github">
+  <diagram id="wfGh-eFuYmIzujo8uk2M" name="第 1 页">
+    <mxGraphModel dx="2251" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-2" value="统一数据资源管理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-3" value="其他业务系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="599" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-4" value="&lt;div&gt;手术信息管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-5" value="医学影像系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-6" value="&lt;div&gt;临床检验信息管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-7" value="&lt;div&gt;病理信息管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-8" value="医疗机构管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-9" value="医疗资源管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-10" value="主索引管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-11" value="麻醉信息管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-12" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-13" value="告警中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-28" value="权限中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-29" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-30" value="门急诊处方和处置管理" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-31" value="住院医嘱管理" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-32" value="云服务赋能" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="505" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-34" value="通用医疗1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="505" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-35" value="通用医疗2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="505" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-36" value="通用医疗3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="505" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-37" value="通用医疗4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="505" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-1Vp-yJHOIoB0iGcsF-38" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;arcSize=14;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="505" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
