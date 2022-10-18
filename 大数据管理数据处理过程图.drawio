@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T06:19:43.045Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5UidpygZl_wM2RSWezax" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-18T06:22:05.476Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="I8WZPHawd7QdoiHQnT-W" version="20.4.1" type="github" pages="2">
   <diagram id="3V0W__k773pLVh4P2_mY" name="Page-1">
     <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,7 +393,7 @@
         <mxCell id="7HDYdF91bs8n-eOw2Zap-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="650" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="7HDYdF91bs8n-eOw2Zap-2" value="数据仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7HDYdF91bs8n-eOw2Zap-2" value="&amp;nbsp;数据模型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7HDYdF91bs8n-eOw2Zap-3" value="数据湖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -405,7 +405,7 @@
         <mxCell id="7HDYdF91bs8n-eOw2Zap-5" value="数据管理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="378" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7HDYdF91bs8n-eOw2Zap-6" value="交换库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7HDYdF91bs8n-eOw2Zap-6" value="数据安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JpajjaorDFzoSr-9OfGF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -426,16 +426,16 @@
         <mxCell id="JpajjaorDFzoSr-9OfGF-6" value="交换库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="264" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JpajjaorDFzoSr-9OfGF-7" value="数据仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JpajjaorDFzoSr-9OfGF-7" value="&amp;nbsp;元数据管理&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JpajjaorDFzoSr-9OfGF-8" value="数据仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JpajjaorDFzoSr-9OfGF-8" value="主数据管理&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="444" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JpajjaorDFzoSr-9OfGF-9" value="数据仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JpajjaorDFzoSr-9OfGF-9" value="数据标准管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JpajjaorDFzoSr-9OfGF-10" value="数据仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JpajjaorDFzoSr-9OfGF-10" value="&amp;nbsp; 数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
