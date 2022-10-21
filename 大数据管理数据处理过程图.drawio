@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T13:48:41.361Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vwj3aMJR0Qrdv-jk8NJu" version="20.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-21T13:50:21.828Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wQCKNsybpamzTwQeI8sa" version="20.4.1" type="github" pages="4">
   <diagram id="3V0W__k773pLVh4P2_mY" name="Page-1">
     <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -586,9 +586,6 @@
         <mxCell id="8kO6hAegtCJ5YS3LNF0_-17" value="数据管理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="8kO6hAegtCJ5YS3LNF0_-1">
           <mxGeometry x="430" y="570" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8kO6hAegtCJ5YS3LNF0_-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="8kO6hAegtCJ5YS3LNF0_-1">
-          <mxGeometry x="230" y="20" width="980" height="340" as="geometry" />
-        </mxCell>
         <mxCell id="8kO6hAegtCJ5YS3LNF0_-20" value="患者360视图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="8kO6hAegtCJ5YS3LNF0_-1">
           <mxGeometry x="250" y="87" width="120" height="60" as="geometry" />
         </mxCell>
@@ -744,6 +741,12 @@
         </mxCell>
         <mxCell id="IyP_z2hYsgE2oCLQrRGc-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#33FFFF;" vertex="1" parent="8kO6hAegtCJ5YS3LNF0_-1">
           <mxGeometry x="1030" y="149" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyP_z2hYsgE2oCLQrRGc-35" value="数据中心" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="8kO6hAegtCJ5YS3LNF0_-1">
+          <mxGeometry x="268" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IyP_z2hYsgE2oCLQrRGc-36" value="业务系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="8kO6hAegtCJ5YS3LNF0_-1">
+          <mxGeometry x="250" y="969.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
