@@ -1,1 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T10:01:57.191Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="20.5.0" etag="N-NKWLNfGRd7xKo6Om1Y" type="github"><diagram id="1x7-nosDfKT76wUK_SJ6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-22T10:03:33.847Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="iAlH2NRKtwUDZZEZ4wF6" version="20.5.0" type="github">
+  <diagram id="1x7-nosDfKT76wUK_SJ6" name="第 1 页">
+    <mxGraphModel dx="2034" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SWxSKTuEC1GbWk0ybQp6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-1" value="采集" style="ellipse;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SWxSKTuEC1GbWk0ybQp6-2" target="SWxSKTuEC1GbWk0ybQp6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-2" value="存储" style="ellipse;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-3" value="管理" style="ellipse;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="310" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-4" value="服务" style="ellipse;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="290" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-5" value="应用" style="ellipse;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="10" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-6" value="1、建库房；常温仓库、冷藏仓库&lt;br&gt;、冷冻仓库&lt;br&gt;2、将蔬菜分类存储适合的仓库；" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-7" value="&lt;br&gt;1、通过渠道把农户的蔬菜收集；" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-8" value="去掉坏的菜叶、清洗干净等" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-9" value="提供蔬菜的分类清单：&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;叶菜类、瓜类、甘蓝类、茄果类、豆类&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="755" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-10" value="数据采集" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-11" value="数据转换" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="211" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-12" value="数据目录" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="221" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-13" value="1、蔬菜的名称、重量、产地、生产日期、&lt;br&gt;1、蔬菜溯源：在哪儿生产的、谁采购的，流向了何处" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="825" width="139" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-14" value="元数据" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="301" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-15" value="1、供货商的管理&lt;br&gt;2、仓库信息的管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="701" y="820" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-16" value="主数据" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="581" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-17" value="定义非转基因、绿色蔬菜" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="740" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-18" value="数据标准" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="720" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-19" value="监控蔬菜的品质、是否损坏" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="650" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-20" value="数据质控" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="730" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-21" value="蔬菜存放安全，防止过期、&lt;br&gt;防被老鼠偷吃、&lt;br&gt;防止被盗" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="580" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-22" value="安全" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="620" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-23" value="地三鲜蔬菜捆绑销售，蔬菜按比例进行配置；蔬菜按一筐一筐存放还是一盒一盒的存放.." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-24" value="数据模型" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="594.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-25" value="豆类去掉豆荚，获取有用的部分豆子" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="515" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-26" value="后结构化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="414" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-27" value="专人管理运营的各个环节，保障业务正常开展" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1040" width="980" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-28" value="运维监控" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1055" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-29" value="榨汁机，让蔬菜水果价值发挥出来" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="320" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-30" value="数据可视化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="474" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-31" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial; font-size: 18px; font-weight: 700; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;红烧茄子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-32" value="患者360视图" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-33" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial; font-size: 18px; font-weight: 700; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;鱼香茄子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="170" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-34" value="科研平台" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="451" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-35" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial; font-size: 18px; font-weight: 700; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;肉末茄子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="135" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-36" value="闭环监控" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-37" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial; font-size: 18px; font-weight: 700; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;蒜泥茄子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="20" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-38" value="数据上报" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="760" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-39" value="给蔬菜贴上各种标签：&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;叶菜类、瓜类；常温保存类、冷冻保存类；转基因类，非转基因类；临期类...&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-40" value="数据标签" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-41" value="&lt;h3 style=&quot;margin: 0px 0px 4px; padding: 0px; list-style: none; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: 22px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;c-title t t tts-title&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;大型蔬菜水果批发市场用全自动套袋包装机来处理大量水果蔬菜的包装&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="445" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-42" value="大数据计算" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="780" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-43" value="提供机器查询检索仓库的蔬菜" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1061.25" y="350" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-44" value="大数据检索" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="941.25" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-45" value="根据饭店的需求，快速分拣提供给饭店" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="797" y="235" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-46" value="数据开放" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="677" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-47" value="通过不断训练，能通过机器来判断瓜果的成熟度" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="270" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-48" value="机器学习" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="923" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.932;exitY=0.241;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SWxSKTuEC1GbWk0ybQp6-3" target="SWxSKTuEC1GbWk0ybQp6-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <mxPoint x="360" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWxSKTuEC1GbWk0ybQp6-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SWxSKTuEC1GbWk0ybQp6-4" target="SWxSKTuEC1GbWk0ybQp6-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="350" as="sourcePoint" />
+            <mxPoint x="830" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
