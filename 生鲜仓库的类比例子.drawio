@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T03:48:37.151Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="d9RDsB3Qrba58Q66L7zJ" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-23T06:26:41.395Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="09mLx41gOI_WqF5YlcZQ" version="20.5.1" type="github" pages="3">
   <diagram id="1x7-nosDfKT76wUK_SJ6" name="第 1 页">
     <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
         <mxCell id="leRNgvBmlh5g6k6jY24c-26" value="针对不同&lt;br&gt;应用需求&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;对数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进一步定制加工&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="610" width="100" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="leRNgvBmlh5g6k6jY24c-27" value="初步加工后的数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="leRNgvBmlh5g6k6jY24c-27" value="加工后的数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="900" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="leRNgvBmlh5g6k6jY24c-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="1">
@@ -298,6 +298,155 @@
             <mxPoint x="460" y="1070" as="sourcePoint" />
             <mxPoint x="460" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 2 页 的副本" id="Gy0NqQUAzJiMc7SmHq4V">
+    <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-0" />
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-1" parent="ObaVN5en8fDOc1Pmw22c-0" />
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-2" value="管理辅助决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-3" value="患者360视图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="400" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-4" value="&lt;font face=&quot;Helvetica Neue, Helvetica, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;数据上报&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="807" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-5" value="加工后的数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="300" y="880" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-6" value="DWD+DWS+ADS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="160" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-7" value="按患者为主线组织数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="400" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-8" value="针对国家相关文件上报要求组织数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="807" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-5" target="ObaVN5en8fDOc1Pmw22c-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-26" target="ObaVN5en8fDOc1Pmw22c-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-5" target="ObaVN5en8fDOc1Pmw22c-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="880" as="sourcePoint" />
+            <mxPoint x="640" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-6" target="ObaVN5en8fDOc1Pmw22c-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="720" as="sourcePoint" />
+            <mxPoint x="230" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-7" target="ObaVN5en8fDOc1Pmw22c-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="564.2893218813452" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-8" target="ObaVN5en8fDOc1Pmw22c-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557" y="710" as="sourcePoint" />
+            <mxPoint x="607" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px;&quot;&gt;&lt;b&gt;更新频率&lt;/b&gt;：实时、按月、按季度、按年&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;内容&lt;/b&gt;：不良事件、病案首页、HQMS..&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;数据库类型：&lt;/b&gt;oracle&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="730" y="750" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-16" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;更新频率&lt;/b&gt;：&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;PingFang SC, Lantinghei SC, Microsoft YaHei, arial, 宋体, sans-serif, tahoma&quot;&gt;实时更新&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;b&gt;内容&lt;/b&gt;：&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;患者电子病历数据&lt;/span&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;b&gt;数据库类型&lt;/b&gt;：oracle&lt;/span&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="370" y="690" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-17" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;更新频率&lt;/b&gt;：每日更新&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;内容：&lt;/b&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;人财物数据、医疗业务数据...&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据库类型：&lt;/b&gt;doris、hbase..&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="190" y="760" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1150" as="sourcePoint" />
+            <mxPoint x="140" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="560" as="sourcePoint" />
+            <mxPoint x="830" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-20" value="应用" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="30" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="856" as="sourcePoint" />
+            <mxPoint x="820" y="856" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-22" value="针对不同&lt;br&gt;应用需求&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;对数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进一步定制加工&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="20" y="610" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-23" value="初步加工后的数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="20" y="900" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9" y="1000" as="sourcePoint" />
+            <mxPoint x="819" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-25" value="原始数据（镜像）" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="20" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-26" value="HIS、EMR、人财物数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="400" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-28" target="ObaVN5en8fDOc1Pmw22c-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="810" as="sourcePoint" />
+            <mxPoint x="140" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-28" value="工序：清理、去重" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="390" y="985" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-26" target="ObaVN5en8fDOc1Pmw22c-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1070" as="sourcePoint" />
+            <mxPoint x="460" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYVTGEZ7stzM1C_sa1b5-0" value="互联互通测评" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="630" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYVTGEZ7stzM1C_sa1b5-1" value="按患者为主线组织数据，共享文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="630" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYVTGEZ7stzM1C_sa1b5-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.775;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="890" as="sourcePoint" />
+            <mxPoint x="680" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYVTGEZ7stzM1C_sa1b5-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.5" y="585" as="sourcePoint" />
+            <mxPoint x="689.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYVTGEZ7stzM1C_sa1b5-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px;&quot;&gt;&lt;b&gt;更新频率&lt;/b&gt;：一次就诊结束后&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;内容&lt;/b&gt;：患者电子病历数据&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;数据库类型：&lt;/b&gt;文件或文档型数据库&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+          <mxGeometry x="500" y="770" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
