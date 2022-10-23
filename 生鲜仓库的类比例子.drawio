@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T11:26:28.617Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="sfJiC1MACC2mwed-LDDX" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T03:40:25.904Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nKEh3F5eQQSJym7ojmja" version="20.5.1" type="github" pages="2">
   <diagram id="1x7-nosDfKT76wUK_SJ6" name="第 1 页">
-    <mxGraphModel dx="1424" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,8 +168,127 @@
             <mxPoint x="830" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPWYszjgySqki3QJjdLE-1" value="数据采集" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="VPWYszjgySqki3QJjdLE-1" value="数据采集" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="40" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RGrX_mwmrps7_WcNpJm5" name="第 2 页">
+    <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="leRNgvBmlh5g6k6jY24c-1" value="西红柿牛肉面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-2" value="三鲜饺子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; text-align: start; text-indent: 28px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;椰奶麦片&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-4" value="面粉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-5" value="面条" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-6" value="饺子皮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-7" value="麦片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-4" target="leRNgvBmlh5g6k6jY24c-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-4" target="leRNgvBmlh5g6k6jY24c-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-4" target="leRNgvBmlh5g6k6jY24c-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="880" as="sourcePoint" />
+            <mxPoint x="640" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-5" target="leRNgvBmlh5g6k6jY24c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="720" as="sourcePoint" />
+            <mxPoint x="230" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-6" target="leRNgvBmlh5g6k6jY24c-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="564.2893218813452" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-7" target="leRNgvBmlh5g6k6jY24c-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-17" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px;&quot;&gt;&lt;b&gt;工序&lt;/b&gt;：蒸熟→干燥→压片→冷却&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;配料&lt;/b&gt;：面粉、玉米粉、大豆、植物油..&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="780" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-18" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;工序&lt;/b&gt;：&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;和面&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;揉面&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Arial, Helvetica, sans-serif&quot;&gt;搓成长条&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→擀面&lt;/span&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;b&gt;配料&lt;/b&gt;：面粉、蛋清、食用盐...&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-19" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;工艺&lt;/b&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;：&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;和面&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;熟化&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;压片&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;切条&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;干燥&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;→&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;切断&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, arial, 宋体, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;配料：&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Microsoft Yahei, 微软雅黑, arial, 宋体, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;面粉、盐、味精、香油、老姜、酱油&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="760" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1150" as="sourcePoint" />
+            <mxPoint x="140" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="560" as="sourcePoint" />
+            <mxPoint x="830" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-24" value="应用" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="856" as="sourcePoint" />
+            <mxPoint x="820" y="856" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-26" value="针对不同&lt;br&gt;应用需求&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;对数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进一步定制加工&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="610" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-27" value="初步加工后的数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="900" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9" y="1000" as="sourcePoint" />
+            <mxPoint x="819" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-29" value="原始数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-30" value="小麦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-30" target="leRNgvBmlh5g6k6jY24c-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="810" as="sourcePoint" />
+            <mxPoint x="140" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
