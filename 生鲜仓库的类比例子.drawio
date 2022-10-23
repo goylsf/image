@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T06:26:41.395Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="09mLx41gOI_WqF5YlcZQ" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T06:27:08.674Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dXCYK-r1tnEbW_h7pgbV" version="20.5.1" type="github" pages="3">
   <diagram id="1x7-nosDfKT76wUK_SJ6" name="第 1 页">
     <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,7 +418,7 @@
             <mxPoint x="140" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObaVN5en8fDOc1Pmw22c-28" value="工序：清理、去重" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
+        <mxCell id="ObaVN5en8fDOc1Pmw22c-28" value="工序：清理、去重、归类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="ObaVN5en8fDOc1Pmw22c-1">
           <mxGeometry x="390" y="985" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ObaVN5en8fDOc1Pmw22c-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ObaVN5en8fDOc1Pmw22c-1" source="ObaVN5en8fDOc1Pmw22c-26" target="ObaVN5en8fDOc1Pmw22c-28">
