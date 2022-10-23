@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T03:40:25.904Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nKEh3F5eQQSJym7ojmja" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-23T03:48:37.151Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="d9RDsB3Qrba58Q66L7zJ" version="20.5.1" type="github" pages="2">
   <diagram id="1x7-nosDfKT76wUK_SJ6" name="第 1 页">
     <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
             <mxPoint x="440" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leRNgvBmlh5g6k6jY24c-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-4" target="leRNgvBmlh5g6k6jY24c-7">
+        <mxCell id="leRNgvBmlh5g6k6jY24c-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-30" target="leRNgvBmlh5g6k6jY24c-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="710" as="sourcePoint" />
             <mxPoint x="440" y="660" as="targetPoint" />
@@ -284,10 +284,19 @@
         <mxCell id="leRNgvBmlh5g6k6jY24c-30" value="小麦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="leRNgvBmlh5g6k6jY24c-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-30" target="leRNgvBmlh5g6k6jY24c-4">
+        <mxCell id="leRNgvBmlh5g6k6jY24c-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-33" target="leRNgvBmlh5g6k6jY24c-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="810" as="sourcePoint" />
             <mxPoint x="140" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-33" value="工序：清理、磨粉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="390" y="985" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="leRNgvBmlh5g6k6jY24c-34" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leRNgvBmlh5g6k6jY24c-30" target="leRNgvBmlh5g6k6jY24c-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1070" as="sourcePoint" />
+            <mxPoint x="460" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
