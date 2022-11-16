@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:49:28.923Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="iSJhSlVegLThrVDQqsqP" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T11:02:29.063Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="emqIKddTT8uQjkJsV3Cm" version="20.5.3" type="github">
   <diagram id="WdBbdv4TCkT75ZllJV3W" name="Page-1">
     <mxGraphModel dx="1187" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -338,6 +338,27 @@
         </mxCell>
         <mxCell id="ISkN2TRPNlv8QTBpylPo-68" value="应用配置管理系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1030" y="515" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-69" value="Spring Boot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-70" value="Mybatis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="485" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-71" value="Redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="512.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-72" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;RabbitMQ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="850" y="542.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-73" value="Spring Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="471.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-74" value="Mybatis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-75" value="mysql" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="572.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
