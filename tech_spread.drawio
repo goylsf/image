@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:12:58.954Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="JhqqqUjcfoMVs4ZZr4fC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T10:14:28.131Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="i6hgnm8nwwRy9rzEieu5" version="20.5.3" type="github">
   <diagram id="WdBbdv4TCkT75ZllJV3W" name="Page-1">
     <mxGraphModel dx="1187" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -252,8 +252,8 @@
         <mxCell id="ISkN2TRPNlv8QTBpylPo-40" value="智能合约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="650" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ISkN2TRPNlv8QTBpylPo-41" value="分布式存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="680" width="90" height="30" as="geometry" />
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-41" value="分布式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="685" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ISkN2TRPNlv8QTBpylPo-43" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
