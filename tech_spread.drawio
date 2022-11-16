@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T07:42:09.404Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="s5FECRLkiuAwfUby-9oa" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T07:50:23.916Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RaP7suIS5e0SNKg2ylPu" version="20.5.3" type="github">
   <diagram id="WdBbdv4TCkT75ZllJV3W" name="Page-1">
     <mxGraphModel dx="1424" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -117,10 +117,10 @@
           <mxGeometry x="260" y="715" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lv4Dapnyp3Li67Ld213d-41" value="虚拟化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="665" width="90" height="30" as="geometry" />
+          <mxGeometry x="620" y="660" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lv4Dapnyp3Li67Ld213d-42" value="按需部署" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="695" width="90" height="30" as="geometry" />
+          <mxGeometry x="630" y="690" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lv4Dapnyp3Li67Ld213d-44" value="Doris" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="666" y="455" width="90" height="30" as="geometry" />
@@ -169,6 +169,21 @@
             <mxPoint x="840" y="680" as="sourcePoint" />
             <mxPoint x="860" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-5" value="Android（主流UI框架：Side-Menu、&lt;br&gt;Context-Menu、&lt;br&gt;Pull-to-Refresh、&lt;br&gt;AndroidSwipeLayout等；）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-6" value="IOS(Swift、UIKit框架)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-7" value="uniapp（前端开发框架：vue、UI框架：vant、MUI）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="530" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-8" value="微信小程序（WXML、WXSS、JS）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="560" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-9" value="多租户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="715" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
