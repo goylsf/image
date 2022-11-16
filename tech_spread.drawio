@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:12:08.358Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Rb1apaTvFNfWRSkxSYHF" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T10:12:58.954Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="JhqqqUjcfoMVs4ZZr4fC" version="20.5.3" type="github">
   <diagram id="WdBbdv4TCkT75ZllJV3W" name="Page-1">
     <mxGraphModel dx="1187" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
           <mxGeometry x="597" y="470" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lv4Dapnyp3Li67Ld213d-49" value="Sqoop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="597" y="520" width="90" height="30" as="geometry" />
+          <mxGeometry x="597" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lv4Dapnyp3Li67Ld213d-50" value="Jsp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="367" y="455" width="90" height="30" as="geometry" />
@@ -287,6 +287,12 @@
         </mxCell>
         <mxCell id="ISkN2TRPNlv8QTBpylPo-52" value="&lt;p class=&quot;MsoNormal&quot;&gt;Oracle&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="441.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-53" value="Hbase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ISkN2TRPNlv8QTBpylPo-54" value="Hive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="520" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
