@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T03:32:47.696Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LfP6cB0UaIsDvDklVjdy" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T03:36:07.357Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="F27dH0bjszX3-Ccjofho" version="20.8.23" type="github">
   <diagram name="第 1 页" id="Sjwlilv4oeNG9_26mYKJ">
     <mxGraphModel dx="1197" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,40 @@
         <mxCell id="TLC2W-ysQb9lLj4SY6h4-7" value="服务消费者" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="165" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TLC2W-ysQb9lLj4SY6h4-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="TLC2W-ysQb9lLj4SY6h4-4">
+        <mxCell id="TLC2W-ysQb9lLj4SY6h4-8" value="注册" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TLC2W-ysQb9lLj4SY6h4-5" target="TLC2W-ysQb9lLj4SY6h4-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="250" as="sourcePoint" />
             <mxPoint x="310" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TLC2W-ysQb9lLj4SY6h4-9" value="注册" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TLC2W-ysQb9lLj4SY6h4-2" target="TLC2W-ysQb9lLj4SY6h4-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="260" as="sourcePoint" />
+            <mxPoint x="350" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TLC2W-ysQb9lLj4SY6h4-10" value="注册" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=1.004;entryY=0.664;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="TLC2W-ysQb9lLj4SY6h4-1" target="TLC2W-ysQb9lLj4SY6h4-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="175" as="sourcePoint" />
+            <mxPoint x="410" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TLC2W-ysQb9lLj4SY6h4-11" value="注册" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=1.004;entryY=0.914;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="TLC2W-ysQb9lLj4SY6h4-3" target="TLC2W-ysQb9lLj4SY6h4-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="185" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TLC2W-ysQb9lLj4SY6h4-12" value="获取可用服务列表" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.583;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TLC2W-ysQb9lLj4SY6h4-4" target="TLC2W-ysQb9lLj4SY6h4-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="330" as="sourcePoint" />
+            <mxPoint x="273" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TLC2W-ysQb9lLj4SY6h4-13" value="负载均衡请求" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TLC2W-ysQb9lLj4SY6h4-6" target="TLC2W-ysQb9lLj4SY6h4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="190" as="sourcePoint" />
+            <mxPoint x="283" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
