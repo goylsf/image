@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T09:32:13.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.9 Safari/537.36" etag="W-9coXLxvqSVA19e6KGE" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T09:42:32.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.9 Safari/537.36" etag="46eiNmu2kLS6nAvq7VhP" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="683" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,20 +13,93 @@
         <mxCell id="5xAQhtf5ni9uGkbtPtf4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-1" target="5xAQhtf5ni9uGkbtPtf4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-1" target="5xAQhtf5ni9uGkbtPtf4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5xAQhtf5ni9uGkbtPtf4-1" value="生成体检结果记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-5" target="5xAQhtf5ni9uGkbtPtf4-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="260" />
+              <mxPoint x="390" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5xAQhtf5ni9uGkbtPtf4-5" value="若当前已存在未填写的问卷，则填充12项指标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-7" target="5xAQhtf5ni9uGkbtPtf4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5xAQhtf5ni9uGkbtPtf4-7" value="检查12项指标填写情况和健康问卷填写情况" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="304" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-9" target="5xAQhtf5ni9uGkbtPtf4-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="260" />
+              <mxPoint x="390" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5xAQhtf5ni9uGkbtPtf4-9" value="填写健康问卷" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-11" target="5xAQhtf5ni9uGkbtPtf4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5xAQhtf5ni9uGkbtPtf4-11" value="可从体检记录中选择导入填充12项指标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="384" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-12" value="系统" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-13" value="健管师" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-14" value="体检者" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-15" target="5xAQhtf5ni9uGkbtPtf4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-15" value="检查补充健康问卷" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="464" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-19" target="5xAQhtf5ni9uGkbtPtf4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-19" value="发送健康问卷" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-21" target="5xAQhtf5ni9uGkbtPtf4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-21" target="5xAQhtf5ni9uGkbtPtf4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-21" value="提交健康问卷" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="545" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-25" target="5xAQhtf5ni9uGkbtPtf4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-25" value="生成体检标签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-27" value="生成画像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xAQhtf5ni9uGkbtPtf4-30" target="5xAQhtf5ni9uGkbtPtf4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-30" value="生成评估标签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5xAQhtf5ni9uGkbtPtf4-31" value="生成评估报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="620" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
