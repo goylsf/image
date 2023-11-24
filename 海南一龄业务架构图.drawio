@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T07:13:51.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.9 Safari/537.36" etag="bXLirhAXxTLbBX5C8UOH" version="22.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-24T07:21:43.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.9 Safari/537.36" etag="phW-UyYT7tEMzt0jAFJG" version="22.1.3" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2247" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,85 +203,82 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fqYyko7yHBWbKdEY8BIa" name="第 3 页">
-    <mxGraphModel dx="1183" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lyVPPpGAmUqCvF75kKJW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="48" y="948" width="150" height="460" as="geometry" />
+          <mxGeometry x="48" y="584" width="150" height="460" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="23" y="968" width="654" height="130" as="geometry" />
+          <mxGeometry x="23" y="604" width="654" height="130" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyVPPpGAmUqCvF75kKJW-6" target="lyVPPpGAmUqCvF75kKJW-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="348" y="868" />
-              <mxPoint x="348" y="868" />
+              <mxPoint x="348" y="504" />
+              <mxPoint x="348" y="504" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyVPPpGAmUqCvF75kKJW-6" target="lyVPPpGAmUqCvF75kKJW-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="348" y="918" />
-              <mxPoint x="118" y="918" />
+              <mxPoint x="348" y="554" />
+              <mxPoint x="118" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyVPPpGAmUqCvF75kKJW-6" target="lyVPPpGAmUqCvF75kKJW-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="348" y="918" />
-              <mxPoint x="588" y="918" />
+              <mxPoint x="348" y="554" />
+              <mxPoint x="588" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-6" value="&lt;b&gt;一龄集团&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="628" width="120" height="60" as="geometry" />
+          <mxGeometry x="288" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyVPPpGAmUqCvF75kKJW-8" target="lyVPPpGAmUqCvF75kKJW-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-8" value="&lt;b&gt;海南一龄（本院）&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="58" y="988" width="120" height="80" as="geometry" />
+          <mxGeometry x="58" y="624" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-9" value="&lt;b&gt;贵阳一龄&lt;br&gt;&lt;br&gt;&lt;/b&gt;（由一龄集团&lt;br&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Arial, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;、中铁集团建设&lt;/span&gt;）&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="988" width="120" height="80" as="geometry" />
+          <mxGeometry x="288" y="624" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-10" value="&lt;b&gt;北京一龄&lt;br&gt;&lt;br&gt;&lt;/b&gt;（由中粮集团、中英人寿、一龄集团建设&lt;br&gt;）&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="988" width="120" height="80" as="geometry" />
+          <mxGeometry x="528" y="624" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-11" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;集团直接垂直管理：&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、财务/资产管理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、全面预算管理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、决策分析&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4、战略制定&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5、绩效考核&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6、现金管理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7、资源协调&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;集团仅监测KPI但&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;不实际参与具体管理&lt;/b&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、人员管理&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;2、采购/物流&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;3、临床业务&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;dashed=1;dashPattern=1 4;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="158" y="698" width="180" height="195" as="geometry" />
+          <mxGeometry x="158" y="334" width="180" height="195" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-12" value="&lt;b&gt;海南一龄（&lt;/b&gt;&lt;div&gt;&lt;b&gt;三亚湾院区&lt;/b&gt;&lt;/div&gt;&lt;b&gt;）&lt;/b&gt;&lt;br&gt;（由一龄集团、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;保信健投建设）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="58" y="1228" width="120" height="90" as="geometry" />
+          <mxGeometry x="58" y="864" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.522;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#666666;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="lyVPPpGAmUqCvF75kKJW-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1058" as="sourcePoint" />
-            <mxPoint x="268" y="1258" as="targetPoint" />
+            <mxPoint x="390" y="694" as="sourcePoint" />
+            <mxPoint x="268" y="894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-14" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;三亚湾院区隶属于本院，为海南一龄的分院区&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;dashed=1;dashPattern=1 4;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="268" y="1218" width="180" height="180" as="geometry" />
+          <mxGeometry x="268" y="854" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;三者之间无隶属关系,为&lt;b&gt;业务协同&lt;/b&gt;关系.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、共享体检客户档案信息&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、传递费用清单&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;dashed=1;dashPattern=1 4;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="508" y="1148" width="180" height="180" as="geometry" />
+          <mxGeometry x="508" y="784" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="lyVPPpGAmUqCvF75kKJW-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.601;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#666666;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="lyVPPpGAmUqCvF75kKJW-2" target="lyVPPpGAmUqCvF75kKJW-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208" y="1198" as="sourcePoint" />
-            <mxPoint x="278" y="1268" as="targetPoint" />
+            <mxPoint x="208" y="834" as="sourcePoint" />
+            <mxPoint x="278" y="904" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lyVPPpGAmUqCvF75kKJW-17" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;院内业务&lt;/b&gt;：&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1、临床服务&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2、医疗管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3、人事管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4、财务管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5、物资管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;6、后勤管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;7、绩效管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;8、预算、成本管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;9、便民服务&lt;/div&gt;&lt;div style=&quot;&quot;&gt;10、教学、科研&lt;/div&gt;&lt;div style=&quot;&quot;&gt;11、OA办公.....&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;dashed=1;dashPattern=1 4;fontStyle=2;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="693" y="915" width="125" height="222" as="geometry" />
-        </mxCell>
-        <mxCell id="lyVPPpGAmUqCvF75kKJW-18" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;集团内部业务&lt;/b&gt;：&lt;/div&gt;&lt;div style=&quot;&quot;&gt;略&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;dashed=1;dashPattern=1 4;fontStyle=2;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="434" y="621" width="180" height="69" as="geometry" />
+        <mxCell id="lyVPPpGAmUqCvF75kKJW-17" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;院内业务&lt;/b&gt;：&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1、临床服务&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2、医疗管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3、人事管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4、财务管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5、药品物资管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;6、后勤管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;7、绩效管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;8、预算、成本管理&lt;/div&gt;&lt;div style=&quot;&quot;&gt;9、便民服务&lt;/div&gt;&lt;div style=&quot;&quot;&gt;10、教学、科研&lt;/div&gt;&lt;div style=&quot;&quot;&gt;11、OA办公.....&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.06666666666666667;dashed=1;dashPattern=1 4;fontStyle=2;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="693" y="551" width="125" height="222" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
