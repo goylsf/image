@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T14:38:35.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="IG1x82bv-OpBlNVQdHi1" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-30T14:45:48.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="9krEHrt4A0yy4APQ6FOF" version="22.1.5" type="github" pages="4">
   <diagram name="软件" id="-skhoRBta84IdqyEYg0e">
     <mxGraphModel dx="2247" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -758,6 +758,9 @@
         </mxCell>
         <mxCell id="mcOcetUW7hJ1DnsYBVL4-16" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:19.76px;font-family:Microsoft YaHei;color:#ffffff;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;心电中心&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;vsdxID=4377;fillColor=#4672c4;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#4672c4;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="GzIfl9emSUQTUirhFppe-1" vertex="1">
           <mxGeometry x="1193" y="-182.25" width="266" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T0VlwZ-DUGit2u5n159R-0" value="合营建立自己的数据中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="GzIfl9emSUQTUirhFppe-1">
+          <mxGeometry x="293" y="1536" width="657" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
