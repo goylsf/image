@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T08:02:38.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="QMEiePPmsjZfklcVGCcK" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T08:12:16.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="bQcYEmlS1wkpM2vYMCjB" version="22.1.7" type="github">
   <diagram name="第 1 页" id="r8ZtHVtC3mXbOPZH1cJQ">
     <mxGraphModel dx="979" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,17 +97,26 @@
             <mxPoint x="230" y="274" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xe99l6hSY67nhleKCdJc-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xe99l6hSY67nhleKCdJc-49" target="xe99l6hSY67nhleKCdJc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe99l6hSY67nhleKCdJc-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xe99l6hSY67nhleKCdJc-49" target="xe99l6hSY67nhleKCdJc-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xe99l6hSY67nhleKCdJc-49" value="报销" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="20" width="80" height="40" as="geometry" />
+          <mxGeometry x="380" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xe99l6hSY67nhleKCdJc-50" value="研发人员报销" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xe99l6hSY67nhleKCdJc-51" value="实施人员报销" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xe99l6hSY67nhleKCdJc-52" value="..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xe99l6hSY67nhleKCdJc-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xe99l6hSY67nhleKCdJc-49" target="xe99l6hSY67nhleKCdJc-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
