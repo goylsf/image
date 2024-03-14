@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T08:03:03.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="f4qFd1n5qkAvW-fZGRtk" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T08:03:27.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36" etag="mwu1M6Rbxthp7N1i9yl1" version="23.1.5" type="github">
   <diagram name="第 1 页" id="ZFBNMosDB5cF0vNC_vOP">
     <mxGraphModel dx="989" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="3f65auHu_qYU2kPqX0yo-1" value="医院线下退约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3f65auHu_qYU2kPqX0yo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3f65auHu_qYU2kPqX0yo-2" target="3f65auHu_qYU2kPqX0yo-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3f65auHu_qYU2kPqX0yo-2" value="调用平台退约服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="70" width="100" height="40" as="geometry" />
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="3f65auHu_qYU2kPqX0yo-9" value="先医院退成功了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3f65auHu_qYU2kPqX0yo-11" value="退费？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
